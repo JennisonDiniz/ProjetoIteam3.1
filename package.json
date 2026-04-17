@@ -11,6 +11,15 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.2.1"
-  }
+    "express": "^5.2.1",
+    "pg": "^8.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JennisonDiniz/ProjetoIteam3.1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JennisonDiniz/ProjetoIteam3.1/issues"
+  },
+  "homepage": "https://github.com/JennisonDiniz/ProjetoIteam3.1#readme"
 }
